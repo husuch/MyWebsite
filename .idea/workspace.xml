@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9f6f4d3-4110-4131-a89c-e471238d5738" name="Default Changelist" comment="" />
+    <list default="true" id="d9f6f4d3-4110-4131-a89c-e471238d5738" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/besuchte_schulen.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/besuchte_schulen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/fachkentnisse.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/fachkentnisse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/personalien.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/personalien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/webseite.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/webseite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/stylesheet_sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/stylesheet_sub.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,73 +23,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/source/categories/personalien.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/source/categories/webseite.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/source/categories/hobbys.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/source/categories/besuchte_schulen.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="101" selection-start-line="37" selection-start-column="101" selection-end-line="37" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/source/categories/fachkentnisse.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+            <state relative-caret-position="378">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Website/index.html">
+        <entry file="file://$PROJECT_DIR$/source/categories/personalien.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="231">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/stylesheets/stylesheet_sub.css">
+        <entry file="file://$PROJECT_DIR$/source/categories/hobbys.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="-353">
+              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Website/stylesheets/stylesheet_index.css">
+        <entry file="file://$PROJECT_DIR$/source/categories/besuchte_schulen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3045">
-              <caret line="145" selection-start-line="145" selection-end-line="145" selection-end-column="41" />
+            <state relative-caret-position="403">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/categories/fachkentnisse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="48" column="96" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/categories/webseite.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet_sub.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="170" column="6" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -101,7 +101,11 @@
       <find>position</find>
       <find>kaffe</find>
       <find>border</find>
+      <find>h1</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,8 +127,14 @@
         <option value="$PROJECT_DIR$/source/SubSites/hobbys.html" />
         <option value="$PROJECT_DIR$/source/SubSites/besuchte_schulen.html" />
         <option value="$PROJECT_DIR$/source/SubSites/fachkentnisse.html" />
+        <option value="$USER_HOME$/Website/stylesheets/stylesheet_sub.css" />
+        <option value="$PROJECT_DIR$/source/categories/fachkentnisse.html" />
+        <option value="$PROJECT_DIR$/source/categories/besuchte_schulen.html" />
+        <option value="$PROJECT_DIR$/source/categories/webseite.html" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet_sub.css" />
-        <option value="$PROJECT_DIR$/../Website/stylesheets/stylesheet_sub.css" />
+        <option value="$PROJECT_DIR$/source/categories/personalien.html" />
+        <option value="$PROJECT_DIR$/source/categories/hobbys.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -135,33 +145,33 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Website" type="462c0819:PsiDirectoryNode" />
+              <item name="Website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Website" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Website" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="Website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="categories" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,11 +221,12 @@
       <workItem from="1566042089170" duration="766000" />
       <workItem from="1566328346649" duration="58000" />
       <workItem from="1566487418227" duration="575000" />
+      <workItem from="1566577388739" duration="2250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69009000" />
+    <option name="totallyTimeSpent" value="71259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -235,7 +246,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32969603" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -255,59 +266,60 @@
     <entry file="file://$PROJECT_DIR$/source/SubSites/belowSub/Pfadi.html" />
     <entry file="file://$PROJECT_DIR$/source/SubSites/belowSub/Informatik.html" />
     <entry file="file://$PROJECT_DIR$/source/SubSites/belowSub/Wandern.html" />
-    <entry file="file://$PROJECT_DIR$/../Website/source/categories/personalien.html">
+    <entry file="file://$USER_HOME$/Website/source/categories/personalien.html" />
+    <entry file="file://$USER_HOME$/Website/source/categories/webseite.html" />
+    <entry file="file://$USER_HOME$/Website/source/categories/hobbys.html" />
+    <entry file="file://$USER_HOME$/Website/source/categories/besuchte_schulen.html" />
+    <entry file="file://$USER_HOME$/Website/source/categories/fachkentnisse.html" />
+    <entry file="file://$USER_HOME$/Website/stylesheets/stylesheet_index.css" />
+    <entry file="file://$USER_HOME$/Website/stylesheets/stylesheet_sub.css" />
+    <entry file="file://$USER_HOME$/Website/index.html" />
+    <entry file="file://$PROJECT_DIR$/source/categories/fachkentnisse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+        <state relative-caret-position="294">
+          <caret line="48" column="96" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/source/categories/webseite.html">
+    <entry file="file://$PROJECT_DIR$/source/categories/besuchte_schulen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="66" />
+        <state relative-caret-position="403">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/source/categories/hobbys.html">
+    <entry file="file://$PROJECT_DIR$/source/categories/webseite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
+        <state relative-caret-position="315">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/source/categories/besuchte_schulen.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet_sub.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="37" column="101" selection-start-line="37" selection-start-column="101" selection-end-line="37" selection-end-column="101" />
+        <state relative-caret-position="180">
+          <caret line="170" column="6" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/source/categories/fachkentnisse.html">
+    <entry file="file://$PROJECT_DIR$/source/categories/hobbys.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="-353">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/stylesheets/stylesheet_index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3045">
-          <caret line="145" selection-start-line="145" selection-end-line="145" selection-end-column="41" />
+        <state relative-caret-position="378">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/stylesheets/stylesheet_sub.css">
+    <entry file="file://$PROJECT_DIR$/source/categories/personalien.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="231">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
