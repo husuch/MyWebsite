@@ -33,7 +33,7 @@ body {
         margin: 0;
         padding: 0;
         grid-template-columns: 25% minmax(auto, 50%) 25%;
-        grid-template-rows: 50px auto minmax(75vh, auto);
+        grid-template-rows: 50px auto auto;
 
 
     }
