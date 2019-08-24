@@ -92,7 +92,7 @@ a.facebook{
         grid-template-columns: 10% Auto 10% Auto 145px ;
         grid-template-rows: 5% 10% 40% 45% Auto;
 
-        background: url("../source/img/smallBackground.jpg") no-repeat center center fixed;
+        background: url("../img/smallBackground.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -153,7 +153,7 @@ a.facebook{
         grid-template-columns: minmax(230px, 15%) 25% minmax(270px, 25%) Auto;
         grid-template-rows: minmax(50px, 51px) 20% 50% Auto;
 
-        background: url("../source/img/SoLa.jpg") no-repeat center center fixed;
+        background: url("../img/SoLa.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
